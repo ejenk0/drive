@@ -6,7 +6,7 @@ CollisionLayer = Union[int, str]
 
 
 class CollisionLayers:
-    CAR: int = 0
+    CAR: CollisionLayer = 0
 
 
 class Constants:
